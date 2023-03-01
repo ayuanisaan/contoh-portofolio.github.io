@@ -1,0 +1,82 @@
+html {
+	position: relative;
+}
+
+body {
+	margin-bottom: 130px;
+	margin-top: 35px;
+}
+	
+hr {
+	width: 250px;
+	border-top: 2px solid #FFB6C1;
+}
+
+.navbar a i {
+	color: white;
+}
+
+section {
+	min-height: 500px;
+}
+
+.portfolio {
+	background-color: #FFE4E1;
+	padding-bottom: 20px;
+}
+
+.portfolio p {
+	text-align: center;
+}
+
+.about img {
+	width: 330px;
+	height: 330px;
+}
+
+.kotak img { 
+	border:1px solid white;
+	transition: all 1.0s ease;
+	position:relative;
+	-moz-transition:all 0.03s ease;
+	-o-transition : all 0.03s ease;
+	-webkit-transition:all 0.03s ease;
+}
+
+.kotak:hover img {
+	z-index: 999999;
+	border : 5px solid white;
+	box-shadow: 0 0 10px rgba(0,0,0,3);
+	-webkit-box-shadow : 0 0 10px rgba(0,0,0,5);
+	-moz-box-shadow :0 0 10px rgba(0,0,0,5);
+	-ms-box-shadow:0 0 10px rgba(0,0,0,5);
+	-o-box-shadow:0 0 10px rgba(0,0,0,5);
+	z-index: 2;
+	transform: scale(1.3);
+	-o-transform : scale(1.3);
+	-moz-transform:scale(1.3);
+	-webkit-transform:scale(1.3);
+}
+
+#contact {
+	background-color: #FFE4E1;
+	padding-bottom: 100px;
+}
+
+footer {
+	position: absolute;
+	bottom: -40px;
+	width: 100%;
+	height: 98px;
+	background-color: #F08080;
+	color: white;
+	padding-bottom: 120px;
+	padding-top: 80px;
+}
+
+footer p {
+	color: white;
+	font-size: 0.9em;
+}
+
+

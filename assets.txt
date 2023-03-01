@@ -1,0 +1,20 @@
+	Terinspirasi dari :
+	https://www.w3schools.com/w3css/tryw3css_templates_parallax.htm
+
+	Referensi yang saya gunakan :
+	https://www.youtube.com/watch?v=NNW7Tg8CgAQ&t=928s
+	https://www.youtube.com/watch?v=btYCEsKJ5k4&t=50s
+	https://www.w3schools.com/
+	https://getbootstrap.com/docs/3.3/
+
+	Daftar aset yang diambil:
+	https://getbootstrap.com/docs/3.3/components/#glyphicons
+	https://www.w3schools.com/bootstrap/bootstrap_images.asp
+	https://getbootstrap.com/docs/3.3/components/#btn-dropdowns-single
+	https://getbootstrap.com/docs/3.3/components/#progress
+
+	Gambar yang saya ambil :
+	https://id.pinterest.com/explore/pink-aesthetic/
+	http://www.gramunion.com/kawaiiscreen.tumblr.com/155766953637
+	https://id.pinterest.com/jocelynpelagio1/baekhyun/
+	
